@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B8796DC3AB542F579D04F069D70E68E73AB4A6EE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B8796DC3AB542F579D04F069D70E68E73AB4A6EE" : 0,
+    "210A84CB64DBE001319448A793DFC671846EB46E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3981A530-19D9-4BA4-BFF8-EDCEA6CD1E7C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B8796DC3AB542F579D04F069D70E68E73AB4A6EE" : "Thesis2017\/",
+    "210A84CB64DBE001319448A793DFC671846EB46E" : "..\/addons\/ofxPostGlitch"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "pixel",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "pixel\/pixel.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/maxillacult\/ofxPostGlitch.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "210A84CB64DBE001319448A793DFC671846EB46E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yumengwang03\/Thesis2017.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B8796DC3AB542F579D04F069D70E68E73AB4A6EE"
+    }
+  ]
+}

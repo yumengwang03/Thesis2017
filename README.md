@@ -1,2 +1,2 @@
 # Thesis2017
-Thesis project for BFA DT
+Happy thesis 2017!

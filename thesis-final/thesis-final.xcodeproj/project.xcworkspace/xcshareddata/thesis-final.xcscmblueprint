@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C3264F6283E70AAE7C2DE423C222D511F33A34D4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B7CCA6A8C889ED4C803FBF307564FD139754E943" : 0,
+    "C3264F6283E70AAE7C2DE423C222D511F33A34D4" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AE934755-3AD2-4CE0-951A-F5731BE72DB4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B7CCA6A8C889ED4C803FBF307564FD139754E943" : "..\/addons\/ofxFX",
+    "C3264F6283E70AAE7C2DE423C222D511F33A34D4" : "Thesis2017\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "thesis-final",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "thesis-final\/thesis-final.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/patriciogonzalezvivo\/ofxFX.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B7CCA6A8C889ED4C803FBF307564FD139754E943"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yumengwang03\/Thesis2017.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C3264F6283E70AAE7C2DE423C222D511F33A34D4"
+    }
+  ]
+}
