@@ -3,6 +3,7 @@
 #include "ofMain.h"
 #include "videoPlayer.h"
 #include "bigPixels.h"
+#include "fingerMesh.h"
 
 class ofApp : public ofBaseApp{
 
@@ -46,6 +47,7 @@ class ofApp : public ofBaseApp{
 
     
     BigPixels bigPixels;
+    FingerMesh fingerMesh;
     
 		
 };

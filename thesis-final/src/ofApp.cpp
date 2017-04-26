@@ -26,17 +26,18 @@ void ofApp::setup(){
     }
     
     
-    playOrder[0].title = "bigPixels_clip";
+    playOrder[0].title = "fingermesh_clip";
     playOrder[0].duration = 5 * 1000;
     
-    playOrder[1].title = "bigPixels_clip2";
-    playOrder[1].duration = 3 * 1000;
+    playOrder[1].title = "bigPixels_clip";
+    playOrder[1].duration = 7 * 1000;
     
     playOrder[2].title = "bigPixels_clip3";
     playOrder[2].duration = 4 * 1000;
     
     
     bigPixels.setup();
+    fingerMesh.setup();
     
 
 }
@@ -46,11 +47,11 @@ void ofApp::update(){
     ofSoundUpdate();
     
     if (playOrder[0].isPlaying) {
-        bigPixels.update();
+        fingerMesh.update();
         timerAll(0, playOrder[0].duration);
         cout<<"clip 0"<<endl;
     } else if(playOrder[1].isPlaying) {
-//        bigPixels2.update();
+        bigPixels.update();
         timerAll(1, playOrder[1].duration);
         cout<<"clip 1"<<endl;
     } else if(playOrder[2].isPlaying) {
@@ -87,9 +88,9 @@ void ofApp::draw(){
     
     
     if (playOrder[0].isPlaying) {
-        bigPixels.draw();
+        fingerMesh.draw();
     } else if(playOrder[1].isPlaying) {
-//        bigPixels2.draw();
+        bigPixels.draw();
     } else if(playOrder[2].isPlaying) {
 //        bigPixels2.draw();
     }

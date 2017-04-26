@@ -54,7 +54,7 @@ void BigPixels::draw() {
             int redPixels = pixels[(j * pixelGap * movieWidth + i * pixelGap) * nChannels];
             int greenPixels = pixels[(j * pixelGap * movieWidth + i * pixelGap) * nChannels + 1];
             int bluePixels = pixels[(j * pixelGap * movieWidth + i * pixelGap) * nChannels + 2];
-            
+
             ofSetColor(redPixels, greenPixels, bluePixels);
             ofRect(pixelGap * i + 280, pixelGap * j, pixelGap, pixelGap);
         }
